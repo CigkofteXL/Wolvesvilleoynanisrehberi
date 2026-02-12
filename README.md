@@ -1,2 +1,2 @@
-# Wolvesvilleoynanisrehberi
-Wolvesvillenin nasıl oynanması gerektiğine dair bir kurallar dizisi resmi veya topluluk tarafından yayınlanmış bir rehber bulunmadığından ve mirmir istediği için bir rehber yapmak istedim
+# Wolvesville Oynanış Rehberi (prosundan 😎)
+Not resmi değildir sadece kendi taktiklerim ve bilgi birikimimle bir rehber yazıyorum
