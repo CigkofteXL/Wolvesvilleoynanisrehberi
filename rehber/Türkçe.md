@@ -47,3 +47,17 @@ Bu döküman, Wolvesville dünyasına yeni adım atanlardan, işin teknik/kodlam
 * [6.3. Diğer Bağımsız Kategoriler](#63-diger-bagimsiz-kategoriler)
 
 ---
+## 🏁 1. Başlangıç ve Temeller
+### Wolvesville nedir?
+* Wolvesville genellikle 16 kişilik köyde kazanmaya çalıştığınız bir sosyal mühendislik oyunudur oyun web tabanlı 2d dir
+###  Oyunun Hikayesi ve Amacı
+* Oyunun belirli bir resmi hikayesi olmamakla beraber amacı Köyde üç takımdan birine ait rolle galibiyet almaya çalışmaktır
+###  Wolvesville Nasıl Yüklenir
+* Wolvesville [Webden](https://www.wolvesville.com/) Android için (Play store) Ios için (App store) Kayıt olarak / Giriş yaparak oynamaya başlayabilirsiniz
+###  Hesap Oluşturma ve Giriş Seçenekleri
+* Wolvesvillede hesap oluşturmak ücretsizdir Gmail mail türevi hesaplarla Kayıt olduktan sonra nick seçiminden sonra Oynamaya başlayabilirsiniz
+###  Cihaz Performansı ve Optimizasyon
+* Wolvesville ortalama bir cihazda sorun çıkarmadan oynatıcak bir arayüze sahiptir fakat cihazınız eski sürümse ayarlardan Animasyonları kapatabilirsiniz
+---
+### 🕹️ 2. Oyun Mekanikleri ve Arayüz
+Yakında
