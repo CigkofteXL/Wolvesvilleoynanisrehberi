@@ -19,7 +19,7 @@ Bu döküman, Wolvesville dünyasına yeni adım atanlardan, işin teknik/kodlam
 * [2.1. Arayüz Tanıtımı: Ana Menüde Neler Var?](#21-arayuz-tanitimi-ana-menude-neler-var)
 * [2.2. İlk Maçınıza Hazırlık: Eğitim Modu](#22-ilk-maciniza-hazirlik-egitim-modu)
 * [2.3. Oyun Modları Arasındaki Farklar](#23-oyun-modlari-arasindaki-farklar)
-* [2.4. Günlük Görevler ve Ödül Sistemi](#24-gunluk-gorevler-ve-odul-sistemi)
+* [2.4. Görevler ve Ödül Sistemi](#24-gunluk-gorevler-ve-odul-sistemi)
 * [2.5. Ekonomi Yönetimi (Altın ve Elmas)](#25-ekonomi-yonetimi)
 
 ### 🎭 3. Roller ve Kart Sistemi
@@ -59,5 +59,26 @@ Bu döküman, Wolvesville dünyasına yeni adım atanlardan, işin teknik/kodlam
 ###  Cihaz Performansı ve Optimizasyon
 * Wolvesville ortalama bir cihazda sorun çıkarmadan oynatıcak bir arayüze sahiptir fakat cihazınız eski sürümse ayarlardan Animasyonları kapatabilirsiniz
 ---
-### 🕹️ 2. Oyun Mekanikleri ve Arayüz
-Yakında
+## 🕹️ 2. Oyun Mekanikleri ve Arayüz
+### Arayüz Tanıtımı: Ana Menüde Neler Var?
+-   Oyna,Envanter,Mağaza,Klanlar,Roller başlangıç tuşlarıdır bunlardan bağımsız olarak klana katılmanız halinde sağ altta veya webden giriyorsanız sağ üstte klanla alakalı butonlar var eğer teklif davet vesaire aldıysanız sol tarafta uzun liste halinde web kısmında yine sol tarafta fakat roller tuşunun altında gözükür buna ek olarak mobilde profil ayarı için başlangıç tuşlarında Profil var mobilden farklı olarak webde sağdan kullanıcı adınıza tıklayarak bu menüye giriyorsunuz Onun harici Tüm tuşları tek tek açıklamama gerek yok bence
+### İlk Maçınıza Hazırlık: Eğitim Modu
+-Mümkünse ilk maçınıza girmeden önce rollerin özelliklerini okuyun kullanmayı bilmezseniz küfür+rep yeme olasılığınız yüksek özellikle tr serverında 
+### Oyun Modları Arasındaki Farklar
+- Oyun modları şu şekildedir genelde Hızlı oyun,Çılgın oyun,Gelişmiş oyun,Dereceli oyun,Özel oyunlar,Kum havuzu(sandbox) tur 
+- Xp kazandırmayanlar Çılgın oyun ve Özel oyunların geneli (vill win grind harici)
+- Hepsinin amacı aynı fakat oynanma süreleri ve roller bakımından  farklılık göstermekte
+- Kum havuzu yeni güncellemelerde gelicek roller içindir
+- Dereceli adıyla aynı fakat çok zor dolduğundan göremedim ben hiç eskiden tr sunucusuda varmış kalkmış
+- Hızlı ve gelişmiş gelişmiş hızlının daha çok rol ve daha yavaş oynanan versiyonu
+- Çılgın oyun türünü arttırmak için eklenmiş bir oyun türü tek kazancı içinde farklı türleri var her türü oynadığınızda yükleme ekranı veriyor genelde veya basit bir item
+### Görevler ve Ödül Sistemi
+- Günlük görevler genelde X rolüyle kazan Y rolüyle oynadır ve ek xp vermektedir görev bittiğinde oyun sonu 
+- Haftalık görevler herkeste aynıdır elmas ve rol kartı verir
+- savaş bileti (battle pass) görevleride herkeste aynıdır 7 günlüktür karşılığında 200 bp jetonu verir bunlarla bp mağazasında altın görev değiştirme kartı skin alabilirsiniz
+- Rol ikonu meydan okumaları bp görevi bitirdikçe bunlarıda yapmış oluyorsunuz karşılığında rol ikonları veriyor bp teması ile alakalı
+- Battlepass i açıklamama gerek yok her oyundaki bir sistemden ibaret
+- Çarklar var bunlar ikiye ayrılıyor Gül çarkı ve Altın çarkı Altın çarkı reklam izleyerek çevirebilirsiniz Gül çarkı topladığınız gül sayısı 30 olduğunda çevirebildiğiniz çark içinden özel şeyler çıkabiliyor
+- Klan görevleride skin kasmak için altınla veya elmasla satılan görevler klandaki üye başıa fiyat artmaktadır
+### Ekonomi Yönetimi
+yakında
