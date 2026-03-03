@@ -9,44 +9,44 @@ Bu döküman, Wolvesville dünyasına yeni adım atanlardan, işin teknik/kodlam
 ### 🏁 1. Başlangıç ve Temeller
 
 * [1.1. Wolvesville Nedir?](#11-wolvesville-nedir)
-* [1.2. Oyunun Hikayesi ve Amacı](#12-oyunun-hikayesi-ve-amaci)
-* [1.3. Wolvesville Nasıl Yüklenir?](#13-wolvesville-nasil-yuklenir)
-* [1.4. Hesap Oluşturma ve Giriş Seçenekleri](#14-hesap-olusturma-ve-giris-secenekleri)
-* [1.5. Cihaz Performansı ve Optimizasyon](#15-cihaz-performansi-ve-optimizasyon)
+* [1.2. Oyunun Hikayesi ve Amacı](#12-oyunun-hikayesi-ve-amacı)
+* [1.3. Wolvesville Nasıl Yüklenir?](#13-wolvesville-nasıl-yüklenir)
+* [1.4. Hesap Oluşturma ve Giriş Seçenekleri](#14-hesap-oluşturma-ve-giriş-seçenekleri)
+* [1.5. Cihaz Performansı ve Optimizasyon](#15-cihaz-performansı-ve-optimizasyon)
 
 ### 🕹️ 2. Oyun Mekanikleri ve Arayüz
 
-* [2.1. Arayüz Tanıtımı: Ana Menüde Neler Var?](#21-arayuz-tanitimi-ana-menude-neler-var)
-* [2.2. İlk Maçınıza Hazırlık: Eğitim Modu](#22-ilk-maciniza-hazirlik-egitim-modu)
-* [2.3. Oyun Modları Arasındaki Farklar](#23-oyun-modlari-arasindaki-farklar)
-* [2.4. Görevler ve Ödül Sistemi](#24-gorevler-ve-odul-sistemi)
-* [2.5. Ekonomi Yönetimi](#25-ekonomi-yonetimi)
+* [2.1. Arayüz Tanıtımı: Ana Menüde Neler Var?](#21-arayüz-tanıtımı-ana-menüde-neler-var)
+* [2.2. İlk Maçınıza Hazırlık: Eğitim Modu](#22-ilk-maçınıza-hazırlık-eğitim-modu)
+* [2.3. Oyun Modları Arasındaki Farklar](#23-oyun-modları-arasındaki-farklar)
+* [2.4. Görevler ve Ödül Sistemi](#24-görevler-ve-ödül-sistemi)
+* [2.5. Ekonomi Yönetimi](#25-ekonomi-yönetimi)
 
 ### 🎭 3. Roller ve Kart Sistemi
 
-* [3.1. Roller ve Görevleri](#31-roller-ve-gorevleri)
-* [3.2. Rol Kartları ve Geliştirme Özellikleri](#32-rol-kartlari-ve-gelistirme-ozellikleri)
-* [3.3. Rol Öncelik Listesi (Meta Roller)](#33-rol-oncelik-listesi-meta-roller)
-* [3.4. Oyun İçi İtemler ve İşlevleri](#34-oyun-ici-itemler-ve-islevleri)
+* [3.1. Roller ve Görevleri](#31-roller-ve-görevleri)
+* [3.2. Rol Kartları ve Geliştirme Özellikleri](#32-rol-kartları-ve-geliştirme-özellikleri)
+* [3.3. Rol Öncelik Listesi (Meta Roller)](#33-rol-öncelik-listesi-meta-roller)
+* [3.4. Oyun İçi İtemler ve İşlevleri](#34-oyun-içi-itemler-ve-işlevleri)
 
 ### 🧠 4. Strateji, Taktik ve Sosyal
 
-* [4.1. Temel Terimler Sözlüğü](#41-temel-terimler-sozlugu)
-* [4.2. Oyun İçi İletişim Protokolü](#42-oyun-ici-iletisim-protokolu)
-* [4.3. Hızlı Gelişme Taktikleri](#43-hizli-gelisme-taktikleri)
+* [4.1. Temel Terimler Sözlüğü](#41-temel-terimler-sözlüğü)
+* [4.2. Oyun İçi İletişim Protokolü](#42-oyun-içi-iletişim-protokolü)
+* [4.3. Hızlı Gelişme Taktikleri](#43-hızlı-gelişme-taktikleri)
 * [4.4. Orta Seviye Analiz Taktikleri](#44-orta-seviye-analiz-taktikleri)
-* [4.5. İleri Seviye Taktikler ve Manipülasyon](#45-ileri-seviye-taktikler-ve-manipulasyon)
-* [4.6. Psikoloji ve Blöf Sanatı](#46-psikoloji-ve-blof-sanati)
+* [4.5. İleri Seviye Taktikler ve Manipülasyon](#45-ileri-seviye-taktikler-ve-manipülasyon)
+* [4.6. Psikoloji ve Blöf Sanatı](#46-psikoloji-ve-blöf-sanatı)
 
 ### 👥 5. Sosyal Yapı ve Topluluk
 
-* [5.1. Arkadaş Ekleme ve Sosyal Özellikler](#51-arkadas-ekleme-ve-sosyal-ozellikler)
-* [5.2. Klanlar, Mağaza ve Özelleştirme](#52-klanlar-magaza-ve-ozellestirme)
-* [5.3. Topluluk Kuralları ve Güvenlik](#53-topluluk-kurallari-ve-guvenlik)
+* [5.1. Arkadaş Ekleme ve Sosyal Özellikler](#51-arkadaş-ekleme-ve-sosyal-özellikler)
+* [5.2. Klanlar, Mağaza ve Özelleştirme](#52-klanlar-mağaza-ve-özelleştirme)
+* [5.3. Topluluk Kuralları ve Güvenlik](#53-topluluk-kuralları-ve-güvenlik)
 
 ### 💻 6. Teknik ve Geliştirici Bölümü
 
-* [6.1. Teknik Bilgiler ve Geliştiricilik (Yakında)](#61-teknik-bilgiler-ve-gelistiricilik-yakinda)
+* [6.1. Teknik Bilgiler ve Geliştiricilik (Yakında)](#61-teknik-bilgiler-ve-geliştiricilik-yakında)
 
 ## 🏁 1. Başlangıç ve Temeller
 
@@ -264,7 +264,7 @@ Bu konu Wolvesville'de artık ustalaşmak anlamına geliyor. Özellikle dereceli
 
 * **Taktik 4 (Soytarı - Fool):** Soytarıysanız iki tarafa da oynayın. Kurtlar ve köy genelde sizi kesmeyeceğinden, kişi sayısı azaldığında bir tarafı diğer tarafa kazandırmakla tehdit edip oyunu kendinize çevirebilirsiniz. Ayrıca solo katillere de oynayabilirsiniz, sololar birbirine destek olmalıdır.
 
-* **Taktik 5 (İnfocular):** Fırtına kurt varken infolarınız kaynayabilir, bu yüzden oyunculara isim olarak bakmalısınız. Sohbette hızlıca 3 harf yazabildiğiniz için eğer baktığınız kişi iyiyse \`3iy\`, unk ise \`3un\`, kötüyse \`3kö\` yazmanız yeterli. Baş harfli olduğu için anlaşılmanız daha kolay olacaktır.
+* **Taktik 5 (İnfocular):** Fırtına kurt varken infolarınız kaynayabilir, bu yüzden oyunculara isim olarak bakmalısınız. Sohbette hızlıca 3 harf yazabildiğiniz için eğer baktığınız kişi iyiyse `3iy`, unk ise `3un`, kötüyse `3kö` yazmanız yeterli. Baş harfli olduğu için anlaşılmanız daha kolay olacaktır.
 
 * **Taktik 6 (Manipülatör Kurt):** İlk başlarda her zaman infocuların oyunu kullanın. Belediye Başkanı rolünü oyunun sonlarına saklar. Oyun sonu Belediye Başkanının 2x oyu (çift oy hakkı) çok işinize yarayacaktır.
 
@@ -310,4 +310,4 @@ Detaylı açıklamaya gerek yok: Saygı ve sevgi çerçevesinde olun.
 
 ### 6.1. Teknik Bilgiler ve Geliştiricilik (Yakında)
 
-*(Geliştirici kısmı yakında eklenecektir! Özellikle C# ve benzeri dillerle API kullanımı, bot yazımı ve oyun içi verilerin çekilmesiyle ilgili teknik detaylar bu bölümde yer alacaktır.)*`;
+*(Geliştirici kısmı yakında eklenecektir! Özellikle C# ve benzeri dillerle API kullanımı, bot yazımı ve oyun içi verilerin çekilmesiyle ilgili teknik detaylar bu bölümde yer alacaktır.)*
